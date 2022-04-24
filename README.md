@@ -1,4 +1,6 @@
- <img src ="https://github.com/wanderindev/wanderindev/raw/master/assets/about-cover.png" alt ="Leisurely exploring the software development world"/><center>Leisurely exploring the software development world</center>
+ <img src ="https://github.com/wanderindev/wanderindev/raw/master/assets/about-cover.png" alt ="Leisurely exploring the software development world"/><p align="center"> Leisurely exploring the software development world</p>
+ <h1>Hello<img src="https://raw.githubusercontent.com/piyushP7pravin/piyushP7pravin/master/Hi.gif" height="25">,and welcome to GitHub profile!</h1>
+ 
 - 👋 Hi, I’m @singhkaram
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -10,13 +12,7 @@ singhkaram/singhkaram is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,5 +21,11 @@ You can click the Preview link to take a look at your changes.
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singhkaram&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   ![](https://komarev.com/ghpvc/?username=your-github-username)
-My example:
-<img src=”https://komarev.com/ghpvc/?username=singhkaram" alt=”singhkaram” />
+ 
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
