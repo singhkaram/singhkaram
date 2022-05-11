@@ -5,7 +5,7 @@
 - 👀 I’m interested in cyber security and ethical hacking.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on java project and web designing.
-- 📫 How to reach me here my instagram: k.a.r.a.m_singh
+<!-- - 📫 How to reach me  -->
 
 <!---
 singhkaram/singhkaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,8 +24,8 @@ You can click the Preview link to take a look at your changes.
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/karam-singh-b445bb12a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
 </p>
