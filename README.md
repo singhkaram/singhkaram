@@ -1,5 +1,5 @@
  <img src ="https://github.com/wanderindev/wanderindev/raw/master/assets/about-cover.png" alt ="Leisurely exploring the software development world"/><p align="center"> Leisurely exploring the software development world</p>
- <h1>Hello<img src="https://raw.githubusercontent.com/piyushP7pravin/piyushP7pravin/master/Hi.gif" height="25">,and welcome to GitHub profile!</h1>
+ <h1>Hello<img src="https://raw.githubusercontent.com/piyushP7pravin/piyushP7pravin/master/Hi.gif" height="25">,and welcome to My GitHub profile!</h1>
  
 - 👋 Hi, I’m KARAM SINGH.
 - 👀 I’m interested in cyber security and ethical hacking.
