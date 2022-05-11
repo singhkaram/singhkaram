@@ -1,11 +1,11 @@
  <img src ="https://github.com/wanderindev/wanderindev/raw/master/assets/about-cover.png" alt ="Leisurely exploring the software development world"/><p align="center"> Leisurely exploring the software development world</p>
  <h1>Hello<img src="https://raw.githubusercontent.com/piyushP7pravin/piyushP7pravin/master/Hi.gif" height="25">,and welcome to GitHub profile!</h1>
  
-- 👋 Hi, I’m @singhkaram
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m KARAM SINGH.
+- 👀 I’m interested in cyber security and ethical hacking.
+- 🌱 I’m currently learning Javascript.
+- 💞️ I’m looking to collaborate on java project and web designing.
+- 📫 How to reach me here my instagram: k.a.r.a.m_singh
 
 <!---
 singhkaram/singhkaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
