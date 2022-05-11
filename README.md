@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singhkaram&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
-  ![](https://komarev.com/ghpvc/?username=your-github-username)
+  ![](https://komarev.com/ghpvc/?username=singhkaram)
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
