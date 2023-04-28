@@ -2,9 +2,9 @@
  <h1>Hello<img src="https://raw.githubusercontent.com/piyushP7pravin/piyushP7pravin/master/Hi.gif" height="25">,and welcome to My GitHub profile!</h1>
  
 - 👋 Hi, I’m KARAM SINGH.
-- 👀 I’m interested in cyber security and ethical hacking.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on java project and web designing.
+- 👀 I’m interested in .
+- 🌱 I’m currently .
+- 💞️ I’m looking to collaborate on.
 <!-- - 📫 How to reach me  -->
 
 
@@ -12,8 +12,6 @@
 <p align="left">
 <!-- <a href="your link" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/karam-singh-b445bb12a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<!-- <a href="your link" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
 </p>
 
 
@@ -41,9 +39,6 @@ You can click the Preview link to take a look at your changes.
  <a href="https://www.javascript.com/?msclkid=bd546d16d0ed11ec806eb02bd05f84c0" target="_blank"> 
   <img src="https://www.bing.com/th?id=AMMS_fec68c8477b49843f0adc747d62ccea6&w=72&h=72&c=7&rs=1&qlt=80&o=6&cdv=1&pid=16.1" alt="javascript" width="40" height="40"/> 
  </a>
- <a href="https://www.kali.org/?msclkid=9e5e7098d0ee11ecb840ffe271c5c0a9" target="_blank"> 
-  <img src="https://www.bing.com/th?id=AMMS_68de8831c31c035e5fa6ae6a2f42a325&w=188&h=132&c=7&o=6&pid=SANGAM" alt="kali-linux" width="40" height="40"/> 
- </a> 
  <a href="https://git-scm.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
  </a> 
@@ -56,7 +51,4 @@ You can click the Preview link to take a look at your changes.
  
  
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singhkaram&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-
-![](https://komarev.com/ghpvc/?username=singhkaram)
+ 
