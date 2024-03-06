@@ -1,54 +1,78 @@
- <img src ="https://github.com/wanderindev/wanderindev/raw/master/assets/about-cover.png" alt ="Leisurely exploring the software development world"/><p align="center"> Leisurely exploring the software development world</p>
- <h1>Hello<img src="https://raw.githubusercontent.com/piyushP7pravin/piyushP7pravin/master/Hi.gif" height="25">,and welcome to My GitHub profile!</h1>
- 
-- 👋 Hi, I’m KARAM SINGH.
-- 👀 I’m interested in .
-- 🌱 I’m currently .
-- 💞️ I’m looking to collaborate on.
-<!-- - 📫 How to reach me  -->
+<br clear="both">
 
+<div align="center">
+  <img height="200" src="https://github.com/wanderindev/wanderindev/raw/master/assets/about-cover.png"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="your link" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/karam-singh-b445bb12a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-</p>
+###
 
+<h2 align="left">Hi 👋! My name is Karam singh and I'm an Aspiring Fullstack Developer from India</h2>
 
-<!---
-singhkaram/singhkaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
 
+<div align="center">
+  <a href="mrkaramsingh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="karamsingh468@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/karam-singh-b445bb12a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/karamsi12856976" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
+###
 
+<br clear="both">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://www.javatpoint.com/java-tutorial" target="_blank"> 
-  <img src="https://www.bing.com/th?id=OIP.ANfN008bhlikSHWZAaVXSAHaHa&w=110&h=110" alt="java" width="40" height="40"/> 
- </a> 
- <a href="https://www.mysql.com/?msclkid=2cdbfd2ad0ec11ec87065d5acdab9e2f" target="_blank"> 
-  <img src="https://www.bing.com/th?id=AMMS_7f7fca5dd3b63173a8fc2f12a47c323f&w=188&h=132&c=7&o=6&pid=SANGAM" alt="MySql" width="40" height="40"/> 
- </a> 
- <a href="https://www.w3.org/html/" target="_blank"> 
-  <img src="https://www.bing.com/th?id=A311993454d09fbf9ad2c95e9bcdd51ff&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM" alt="html5" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank"> 
-  <img src="https://www.bing.com/th?id=A3bb29597fae40868b8caf1c0ced49b21&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM" alt="css3" width="40" height="40"/> 
- </a> 
- <a href="https://www.javascript.com/?msclkid=bd546d16d0ed11ec806eb02bd05f84c0" target="_blank"> 
-  <img src="https://www.bing.com/th?id=AMMS_fec68c8477b49843f0adc747d62ccea6&w=72&h=72&c=7&rs=1&qlt=80&o=6&cdv=1&pid=16.1" alt="javascript" width="40" height="40"/> 
- </a>
- <a href="https://git-scm.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
- </a> 
-  
- 
- 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+</div>
 
- 
-  
- 
- 
- 
- 
+###
